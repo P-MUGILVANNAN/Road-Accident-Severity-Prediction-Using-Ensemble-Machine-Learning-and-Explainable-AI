@@ -1,0 +1,632 @@
+[
+  {
+    "algorithm": "Logistic Regression",
+    "imbalance_strategy": "none",
+    "random_seed": 42,
+    "metrics": {
+      "accuracy": 0.619,
+      "macro_precision": 0.3617,
+      "macro_recall": 0.3725,
+      "macro_f1": 0.3568,
+      "weighted_precision": 0.549,
+      "weighted_recall": 0.619,
+      "weighted_f1": 0.5705,
+      "per_class": {
+        "Slight": {
+          "precision": 0.6675,
+          "recall": 0.8594,
+          "f1_score": 0.7514,
+          "support": 626
+        },
+        "Serious": {
+          "precision": 0.4175,
+          "recall": 0.258,
+          "f1_score": 0.3189,
+          "support": 314
+        },
+        "Fatal": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "support": 60
+        }
+      },
+      "confusion_matrix": [
+        [
+          538,
+          88,
+          0
+        ],
+        [
+          233,
+          81,
+          0
+        ],
+        [
+          35,
+          25,
+          0
+        ]
+      ],
+      "classes": [
+        "Slight",
+        "Serious",
+        "Fatal"
+      ],
+      "roc_auc_ovr": 0.6469,
+      "log_loss": 0.803
+    },
+    "artifact_path": "D:\\PROJECTS\\Road Accident Severity Prediction Using Ensemble Machine Learning and Explainable AI\\models\\logistic_regression_none.joblib",
+    "train_samples": 4000,
+    "test_samples": 1000,
+    "experiment_id": "EXP-01",
+    "experiment_name": "Logistic Regression Baseline"
+  },
+  {
+    "algorithm": "Decision Tree",
+    "imbalance_strategy": "none",
+    "random_seed": 42,
+    "metrics": {
+      "accuracy": 0.6,
+      "macro_precision": 0.3939,
+      "macro_recall": 0.3626,
+      "macro_f1": 0.3511,
+      "weighted_precision": 0.5388,
+      "weighted_recall": 0.6,
+      "weighted_f1": 0.5528,
+      "per_class": {
+        "Slight": {
+          "precision": 0.6538,
+          "recall": 0.8419,
+          "f1_score": 0.736,
+          "support": 626
+        },
+        "Serious": {
+          "precision": 0.385,
+          "recall": 0.2293,
+          "f1_score": 0.2874,
+          "support": 314
+        },
+        "Fatal": {
+          "precision": 0.1429,
+          "recall": 0.0167,
+          "f1_score": 0.0299,
+          "support": 60
+        }
+      },
+      "confusion_matrix": [
+        [
+          527,
+          98,
+          1
+        ],
+        [
+          237,
+          72,
+          5
+        ],
+        [
+          42,
+          17,
+          1
+        ]
+      ],
+      "classes": [
+        "Slight",
+        "Serious",
+        "Fatal"
+      ],
+      "roc_auc_ovr": 0.6341,
+      "log_loss": 1.7851
+    },
+    "artifact_path": "D:\\PROJECTS\\Road Accident Severity Prediction Using Ensemble Machine Learning and Explainable AI\\models\\decision_tree_none.joblib",
+    "train_samples": 4000,
+    "test_samples": 1000,
+    "experiment_id": "EXP-02",
+    "experiment_name": "Decision Tree"
+  },
+  {
+    "algorithm": "Random Forest",
+    "imbalance_strategy": "none",
+    "random_seed": 42,
+    "metrics": {
+      "accuracy": 0.613,
+      "macro_precision": 0.3528,
+      "macro_recall": 0.3619,
+      "macro_f1": 0.3424,
+      "weighted_precision": 0.5366,
+      "weighted_recall": 0.613,
+      "weighted_f1": 0.5559,
+      "per_class": {
+        "Slight": {
+          "precision": 0.6547,
+          "recall": 0.8722,
+          "f1_score": 0.7479,
+          "support": 626
+        },
+        "Serious": {
+          "precision": 0.4036,
+          "recall": 0.2134,
+          "f1_score": 0.2792,
+          "support": 314
+        },
+        "Fatal": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "support": 60
+        }
+      },
+      "confusion_matrix": [
+        [
+          546,
+          80,
+          0
+        ],
+        [
+          247,
+          67,
+          0
+        ],
+        [
+          41,
+          19,
+          0
+        ]
+      ],
+      "classes": [
+        "Slight",
+        "Serious",
+        "Fatal"
+      ],
+      "roc_auc_ovr": 0.6365,
+      "log_loss": 0.8016
+    },
+    "artifact_path": "D:\\PROJECTS\\Road Accident Severity Prediction Using Ensemble Machine Learning and Explainable AI\\models\\random_forest_none.joblib",
+    "train_samples": 4000,
+    "test_samples": 1000,
+    "experiment_id": "EXP-03",
+    "experiment_name": "Random Forest"
+  },
+  {
+    "algorithm": "Extra Trees",
+    "imbalance_strategy": "none",
+    "random_seed": 42,
+    "metrics": {
+      "accuracy": 0.611,
+      "macro_precision": 0.3493,
+      "macro_recall": 0.3571,
+      "macro_f1": 0.3354,
+      "weighted_precision": 0.532,
+      "weighted_recall": 0.611,
+      "weighted_f1": 0.5494,
+      "per_class": {
+        "Slight": {
+          "precision": 0.6505,
+          "recall": 0.8802,
+          "f1_score": 0.7481,
+          "support": 626
+        },
+        "Serious": {
+          "precision": 0.3974,
+          "recall": 0.1911,
+          "f1_score": 0.2581,
+          "support": 314
+        },
+        "Fatal": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "support": 60
+        }
+      },
+      "confusion_matrix": [
+        [
+          551,
+          73,
+          2
+        ],
+        [
+          254,
+          60,
+          0
+        ],
+        [
+          42,
+          18,
+          0
+        ]
+      ],
+      "classes": [
+        "Slight",
+        "Serious",
+        "Fatal"
+      ],
+      "roc_auc_ovr": 0.6294,
+      "log_loss": 0.8118
+    },
+    "artifact_path": "D:\\PROJECTS\\Road Accident Severity Prediction Using Ensemble Machine Learning and Explainable AI\\models\\extra_trees_none.joblib",
+    "train_samples": 4000,
+    "test_samples": 1000,
+    "experiment_id": "EXP-04",
+    "experiment_name": "Extra Trees"
+  },
+  {
+    "algorithm": "Gradient Boosting",
+    "imbalance_strategy": "none",
+    "random_seed": 42,
+    "metrics": {
+      "accuracy": 0.603,
+      "macro_precision": 0.3926,
+      "macro_recall": 0.3626,
+      "macro_f1": 0.35,
+      "weighted_precision": 0.5389,
+      "weighted_recall": 0.603,
+      "weighted_f1": 0.5537,
+      "per_class": {
+        "Slight": {
+          "precision": 0.658,
+          "recall": 0.8514,
+          "f1_score": 0.7423,
+          "support": 626
+        },
+        "Serious": {
+          "precision": 0.377,
+          "recall": 0.2197,
+          "f1_score": 0.2777,
+          "support": 314
+        },
+        "Fatal": {
+          "precision": 0.1429,
+          "recall": 0.0167,
+          "f1_score": 0.0299,
+          "support": 60
+        }
+      },
+      "confusion_matrix": [
+        [
+          533,
+          89,
+          4
+        ],
+        [
+          243,
+          69,
+          2
+        ],
+        [
+          34,
+          25,
+          1
+        ]
+      ],
+      "classes": [
+        "Slight",
+        "Serious",
+        "Fatal"
+      ],
+      "roc_auc_ovr": 0.617,
+      "log_loss": 0.8568
+    },
+    "artifact_path": "D:\\PROJECTS\\Road Accident Severity Prediction Using Ensemble Machine Learning and Explainable AI\\models\\gradient_boosting_none.joblib",
+    "train_samples": 4000,
+    "test_samples": 1000,
+    "experiment_id": "EXP-05",
+    "experiment_name": "Gradient Boosting"
+  },
+  {
+    "algorithm": "XGBoost",
+    "imbalance_strategy": "none",
+    "random_seed": 42,
+    "metrics": {
+      "accuracy": 0.624,
+      "macro_precision": 0.3659,
+      "macro_recall": 0.3725,
+      "macro_f1": 0.3562,
+      "weighted_precision": 0.554,
+      "weighted_recall": 0.624,
+      "weighted_f1": 0.5725,
+      "per_class": {
+        "Slight": {
+          "precision": 0.6707,
+          "recall": 0.8754,
+          "f1_score": 0.7595,
+          "support": 626
+        },
+        "Serious": {
+          "precision": 0.427,
+          "recall": 0.242,
+          "f1_score": 0.3089,
+          "support": 314
+        },
+        "Fatal": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "support": 60
+        }
+      },
+      "confusion_matrix": [
+        [
+          548,
+          76,
+          2
+        ],
+        [
+          235,
+          76,
+          3
+        ],
+        [
+          34,
+          26,
+          0
+        ]
+      ],
+      "classes": [
+        "Slight",
+        "Serious",
+        "Fatal"
+      ],
+      "roc_auc_ovr": 0.6292,
+      "log_loss": 0.8379
+    },
+    "artifact_path": "D:\\PROJECTS\\Road Accident Severity Prediction Using Ensemble Machine Learning and Explainable AI\\models\\xgboost_none.joblib",
+    "train_samples": 4000,
+    "test_samples": 1000,
+    "experiment_id": "EXP-06",
+    "experiment_name": "XGBoost Classifier"
+  },
+  {
+    "algorithm": "LightGBM",
+    "imbalance_strategy": "none",
+    "random_seed": 42,
+    "metrics": {
+      "accuracy": 0.621,
+      "macro_precision": 0.4312,
+      "macro_recall": 0.3775,
+      "macro_f1": 0.3669,
+      "weighted_precision": 0.564,
+      "weighted_recall": 0.621,
+      "weighted_f1": 0.5731,
+      "per_class": {
+        "Slight": {
+          "precision": 0.6687,
+          "recall": 0.8642,
+          "f1_score": 0.754,
+          "support": 626
+        },
+        "Serious": {
+          "precision": 0.4247,
+          "recall": 0.2516,
+          "f1_score": 0.316,
+          "support": 314
+        },
+        "Fatal": {
+          "precision": 0.2,
+          "recall": 0.0167,
+          "f1_score": 0.0308,
+          "support": 60
+        }
+      },
+      "confusion_matrix": [
+        [
+          541,
+          84,
+          1
+        ],
+        [
+          232,
+          79,
+          3
+        ],
+        [
+          36,
+          23,
+          1
+        ]
+      ],
+      "classes": [
+        "Slight",
+        "Serious",
+        "Fatal"
+      ],
+      "roc_auc_ovr": 0.6213,
+      "log_loss": 0.8449
+    },
+    "artifact_path": "D:\\PROJECTS\\Road Accident Severity Prediction Using Ensemble Machine Learning and Explainable AI\\models\\lightgbm_none.joblib",
+    "train_samples": 4000,
+    "test_samples": 1000,
+    "experiment_id": "EXP-07",
+    "experiment_name": "LightGBM Classifier"
+  },
+  {
+    "algorithm": "Ensemble (Soft Voting)",
+    "imbalance_strategy": "none",
+    "random_seed": 42,
+    "metrics": {
+      "accuracy": 0.62,
+      "macro_precision": 0.3597,
+      "macro_recall": 0.3677,
+      "macro_f1": 0.3498,
+      "weighted_precision": 0.5467,
+      "weighted_recall": 0.62,
+      "weighted_f1": 0.5658,
+      "per_class": {
+        "Slight": {
+          "precision": 0.6663,
+          "recall": 0.877,
+          "f1_score": 0.7572,
+          "support": 626
+        },
+        "Serious": {
+          "precision": 0.4128,
+          "recall": 0.2261,
+          "f1_score": 0.2922,
+          "support": 314
+        },
+        "Fatal": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1_score": 0.0,
+          "support": 60
+        }
+      },
+      "confusion_matrix": [
+        [
+          549,
+          76,
+          1
+        ],
+        [
+          240,
+          71,
+          3
+        ],
+        [
+          35,
+          25,
+          0
+        ]
+      ],
+      "classes": [
+        "Slight",
+        "Serious",
+        "Fatal"
+      ],
+      "roc_auc_ovr": 0.6369,
+      "log_loss": 0.814
+    },
+    "artifact_path": "D:\\PROJECTS\\Road Accident Severity Prediction Using Ensemble Machine Learning and Explainable AI\\models\\ensemble_soft_voting_none.joblib",
+    "train_samples": 4000,
+    "test_samples": 1000,
+    "experiment_id": "EXP-08",
+    "experiment_name": "Proposed Ensemble (No Imbalance)"
+  },
+  {
+    "algorithm": "Ensemble (Soft Voting)",
+    "imbalance_strategy": "class_weight",
+    "random_seed": 42,
+    "metrics": {
+      "accuracy": 0.593,
+      "macro_precision": 0.4006,
+      "macro_recall": 0.3978,
+      "macro_f1": 0.3984,
+      "weighted_precision": 0.5797,
+      "weighted_recall": 0.593,
+      "weighted_f1": 0.5854,
+      "per_class": {
+        "Slight": {
+          "precision": 0.7066,
+          "recall": 0.754,
+          "f1_score": 0.7295,
+          "support": 626
+        },
+        "Serious": {
+          "precision": 0.4239,
+          "recall": 0.3726,
+          "f1_score": 0.3966,
+          "support": 314
+        },
+        "Fatal": {
+          "precision": 0.0714,
+          "recall": 0.0667,
+          "f1_score": 0.069,
+          "support": 60
+        }
+      },
+      "confusion_matrix": [
+        [
+          472,
+          127,
+          27
+        ],
+        [
+          172,
+          117,
+          25
+        ],
+        [
+          24,
+          32,
+          4
+        ]
+      ],
+      "classes": [
+        "Slight",
+        "Serious",
+        "Fatal"
+      ],
+      "roc_auc_ovr": 0.6287,
+      "log_loss": 0.8721
+    },
+    "artifact_path": "D:\\PROJECTS\\Road Accident Severity Prediction Using Ensemble Machine Learning and Explainable AI\\models\\ensemble_soft_voting_class_weight.joblib",
+    "train_samples": 4000,
+    "test_samples": 1000,
+    "experiment_id": "EXP-09",
+    "experiment_name": "Proposed Ensemble (Class Weights)"
+  },
+  {
+    "algorithm": "Ensemble (Soft Voting)",
+    "imbalance_strategy": "smote",
+    "random_seed": 42,
+    "metrics": {
+      "accuracy": 0.609,
+      "macro_precision": 0.3853,
+      "macro_recall": 0.3849,
+      "macro_f1": 0.3802,
+      "weighted_precision": 0.568,
+      "weighted_recall": 0.609,
+      "weighted_f1": 0.5839,
+      "per_class": {
+        "Slight": {
+          "precision": 0.6909,
+          "recall": 0.8035,
+          "f1_score": 0.743,
+          "support": 626
+        },
+        "Serious": {
+          "precision": 0.4234,
+          "recall": 0.3344,
+          "f1_score": 0.3737,
+          "support": 314
+        },
+        "Fatal": {
+          "precision": 0.0417,
+          "recall": 0.0167,
+          "f1_score": 0.0238,
+          "support": 60
+        }
+      },
+      "confusion_matrix": [
+        [
+          503,
+          111,
+          12
+        ],
+        [
+          198,
+          105,
+          11
+        ],
+        [
+          27,
+          32,
+          1
+        ]
+      ],
+      "classes": [
+        "Slight",
+        "Serious",
+        "Fatal"
+      ],
+      "roc_auc_ovr": 0.6375,
+      "log_loss": 0.8315
+    },
+    "artifact_path": "D:\\PROJECTS\\Road Accident Severity Prediction Using Ensemble Machine Learning and Explainable AI\\models\\ensemble_soft_voting_smote.joblib",
+    "train_samples": 7521,
+    "test_samples": 1000,
+    "experiment_id": "EXP-10",
+    "experiment_name": "Proposed Ensemble + SMOTE"
+  }
+]

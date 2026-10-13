@@ -1,0 +1,151 @@
+accident_index,accident_date,accident_time,day_of_week,urban_or_rural_area,road_type,road_class,speed_limit,weather_conditions,road_surface_conditions,light_conditions,junction_detail,number_of_vehicles,latitude,longitude,region,accident_severity
+SYN100001,2022-08-26,14:10,Friday,Urban,Single carriageway,C,30,Fine no high winds,Dry,Daylight,T or staggered junction,3,53.855716,-1.497339,West Yorkshire (Leeds),Slight
+SYN100002,2023-07-07,15:11,Friday,Urban,Single carriageway,B,30,Fine no high winds,Dry,Daylight,T or staggered junction,3,52.888675,-1.209757,East Midlands,Serious
+SYN100003,2021-09-14,02:55,Tuesday,Urban,Single carriageway,A,30,Fine no high winds,Dry,Darkness - lights lit,T or staggered junction,1,53.406512,-2.275694,Greater Manchester,Slight
+SYN100004,2022-05-15,07:15,Sunday,Urban,Single carriageway,A,30,Fine no high winds,Dry,Daylight,T or staggered junction,2,51.408652,-2.557266,South West (Bristol),Slight
+SYN100005,2023-06-08,11:08,Thursday,Rural,Single carriageway,C,60,Fine no high winds,Dry,Daylight,Not at junction,2,51.505876,-2.507004,South West (Bristol),Serious
+SYN100006,2023-05-02,16:03,Tuesday,Urban,Single carriageway,B,30,Raining no high winds,Wet or damp,Daylight,T or staggered junction,2,52.514294,-1.883111,West Midlands (Birmingham),Slight
+SYN100007,2023-04-18,16:49,Tuesday,Urban,Single carriageway,Unclassified,30,Fine no high winds,Wet or damp,Daylight,T or staggered junction,2,51.417291,-2.513163,South West (Bristol),Serious
+SYN100008,2021-09-07,20:06,Tuesday,Rural,Single carriageway,A,60,Raining no high winds,Wet or damp,Darkness - no lighting,T or staggered junction,2,53.804892,-1.638381,West Yorkshire (Leeds),Serious
+SYN100009,2021-03-30,11:26,Tuesday,Rural,Single carriageway,A,50,Fine no high winds,Wet or damp,Daylight,T or staggered junction,1,54.962817,-1.61925,North East (Newcastle),Slight
+SYN100010,2023-10-11,08:39,Wednesday,Urban,Single carriageway,B,30,Fine no high winds,Dry,Daylight,Not at junction,1,55.042989,-1.624106,North East (Newcastle),Slight
+SYN100011,2022-04-08,16:42,Friday,Urban,One way street,A,20,Fine no high winds,Dry,Daylight,Not at junction,2,53.471324,-2.152685,Greater Manchester,Serious
+SYN100012,2023-12-08,08:30,Friday,Rural,Single carriageway,A,50,Fine no high winds,Dry,Daylight,Not at junction,1,55.004698,-1.583373,North East (Newcastle),Serious
+SYN100013,2023-08-13,10:16,Sunday,Urban,Single carriageway,Unclassified,20,Fine no high winds,Dry,Daylight,Not at junction,2,51.461514,-2.550358,South West (Bristol),Slight
+SYN100014,2023-12-16,11:28,Saturday,Urban,Dual carriageway,B,30,Raining no high winds,Wet or damp,Daylight,Crossroads,1,51.569014,-0.033266,Greater London,Slight
+SYN100015,2021-05-05,17:01,Wednesday,Urban,One way street,A,30,Fine no high winds,Dry,Daylight,T or staggered junction,2,52.91015,-1.211123,East Midlands,Slight
+SYN100016,2023-05-10,17:42,Wednesday,Rural,Dual carriageway,C,40,Fine no high winds,Dry,Daylight,T or staggered junction,2,53.477615,-2.328948,Greater Manchester,Serious
+SYN100017,2023-09-26,10:20,Tuesday,Urban,Single carriageway,A,30,Fine no high winds,Dry,Daylight,Not at junction,1,51.402417,-2.621552,South West (Bristol),Slight
+SYN100018,2023-08-20,04:28,Sunday,Rural,Single carriageway,A,40,Fine no high winds,Dry,Darkness - no lighting,More than 4 arms,1,52.402005,-1.909218,West Midlands (Birmingham),Serious
+SYN100019,2023-12-31,07:18,Sunday,Urban,Slip road,B,30,Fine no high winds,Dry,Daylight,T or staggered junction,2,53.765688,-1.523784,West Yorkshire (Leeds),Slight
+SYN100020,2021-06-11,10:04,Friday,Rural,Single carriageway,A,40,Fine no high winds,Dry,Daylight,T or staggered junction,2,53.443976,-2.178893,Greater Manchester,Slight
+SYN100021,2021-03-22,14:49,Monday,Rural,Single carriageway,C,60,Fine no high winds,Dry,Daylight,Crossroads,1,51.576961,-0.092572,Greater London,Slight
+SYN100022,2023-09-11,20:38,Monday,Urban,Dual carriageway,Unclassified,30,Fine no high winds,Dry,Darkness - lights lit,Not at junction,3,54.985281,-1.575492,North East (Newcastle),Serious
+SYN100023,2022-09-09,11:12,Friday,Urban,Single carriageway,A,20,Fine no high winds,Dry,Daylight,T or staggered junction,3,52.945869,-1.194526,East Midlands,Slight
+SYN100024,2022-02-23,21:26,Wednesday,Urban,Single carriageway,C,30,Fine no high winds,Wet or damp,Darkness - lights lit,Crossroads,1,55.948949,-3.268975,Scotland (Central Belt),Serious
+SYN100025,2021-11-27,08:50,Saturday,Urban,One way street,B,30,Fine no high winds,Wet or damp,Daylight,Not at junction,2,55.869442,-3.710511,Scotland (Central Belt),Serious
+SYN100026,2022-12-14,11:02,Wednesday,Urban,Single carriageway,A,30,Fine no high winds,Dry,Daylight,T or staggered junction,1,51.523894,0.08056,Greater London,Slight
+SYN100027,2022-12-06,04:31,Tuesday,Rural,Single carriageway,B,50,Fine no high winds,Dry,Darkness - no lighting,T or staggered junction,1,53.011411,-1.240701,East Midlands,Serious
+SYN100028,2022-12-21,16:26,Wednesday,Urban,One way street,A,30,Fine no high winds,Dry,Daylight,Crossroads,2,51.408629,-2.596635,South West (Bristol),Slight
+SYN100029,2022-04-23,16:21,Saturday,Rural,Single carriageway,B,60,Fine no high winds,Dry,Daylight,T or staggered junction,1,53.756037,-1.567505,West Yorkshire (Leeds),Fatal
+SYN100030,2023-07-29,14:34,Saturday,Urban,Single carriageway,C,30,Raining no high winds,Wet or damp,Daylight,Not at junction,2,54.953507,-1.616353,North East (Newcastle),Slight
+SYN100031,2021-02-06,06:06,Saturday,Urban,Single carriageway,Unclassified,20,Fine no high winds,Dry,Darkness - lights lit,Not at junction,1,51.469764,-2.512185,South West (Bristol),Slight
+SYN100032,2021-09-29,18:11,Wednesday,Urban,Single carriageway,A,20,Other,Dry,Daylight,T or staggered junction,2,52.922815,-1.131216,East Midlands,Slight
+SYN100033,2022-11-07,06:23,Monday,Urban,Single carriageway,A,30,Fine no high winds,Dry,Darkness - lights lit,T or staggered junction,2,51.453789,-0.035268,Greater London,Slight
+SYN100034,2023-09-04,19:15,Monday,Urban,Single carriageway,A,30,Fine no high winds,Wet or damp,Darkness - lights lit,Crossroads,1,51.64645,-0.358403,Greater London,Slight
+SYN100035,2023-02-25,07:15,Saturday,Urban,Single carriageway,C,20,Fine no high winds,Dry,Daylight,Crossroads,2,55.826467,-3.635822,Scotland (Central Belt),Slight
+SYN100036,2022-11-22,15:19,Tuesday,Rural,Dual carriageway,Motorway,70,Fine no high winds,Dry,Daylight,Not at junction,1,53.54047,-2.227864,Greater Manchester,Slight
+SYN100037,2022-08-11,20:05,Thursday,Urban,Single carriageway,C,20,Fine no high winds,Wet or damp,Darkness - lights lit,T or staggered junction,1,55.042421,-1.622534,North East (Newcastle),Slight
+SYN100038,2023-05-24,17:18,Wednesday,Rural,Single carriageway,A,60,Fine no high winds,Wet or damp,Daylight,T or staggered junction,2,55.88357,-4.112475,Scotland (Central Belt),Slight
+SYN100039,2023-12-01,06:52,Friday,Urban,Single carriageway,A,30,Fine no high winds,Dry,Darkness - lights lit,T or staggered junction,2,51.45608,-2.640738,South West (Bristol),Slight
+SYN100040,2021-05-20,18:01,Thursday,Urban,Dual carriageway,B,30,Fine no high winds,Dry,Daylight,Not at junction,2,53.542281,-2.315482,Greater Manchester,Serious
+SYN100041,2023-03-26,21:44,Sunday,Urban,Roundabout,A,20,Fine no high winds,Dry,Darkness - lights lit,Roundabout,2,55.910494,-3.782997,Scotland (Central Belt),Slight
+SYN100042,2021-12-19,16:11,Sunday,Rural,Single carriageway,Unclassified,50,Fine no high winds,Dry,Daylight,Not at junction,2,55.010819,-1.588685,North East (Newcastle),Slight
+SYN100043,2021-03-08,13:14,Monday,Urban,Single carriageway,A,30,Fine no high winds,Dry,Daylight,T or staggered junction,2,51.502521,-2.590404,South West (Bristol),Slight
+SYN100044,2022-08-04,21:31,Thursday,Urban,Single carriageway,A,30,Fine no high winds,Dry,Darkness - lights lit,T or staggered junction,3,51.45454,-2.598227,South West (Bristol),Serious
+SYN100045,2021-12-04,09:02,Saturday,Urban,Single carriageway,C,30,Fine no high winds,Dry,Daylight,Not at junction,1,54.974331,-1.589923,North East (Newcastle),Slight
+SYN100046,2022-09-02,08:51,Friday,Urban,Roundabout,Unclassified,40,Fine no high winds,Dry,Daylight,Roundabout,1,53.54643,-2.233889,Greater Manchester,Serious
+SYN100047,2021-11-05,15:26,Friday,Urban,Single carriageway,A,30,Fine no high winds,Dry,Daylight,Crossroads,1,55.840355,-3.831129,Scotland (Central Belt),Serious
+SYN100048,2023-07-22,13:22,Saturday,Urban,Dual carriageway,A,30,Fine no high winds,Dry,Daylight,T or staggered junction,2,55.010365,-1.623804,North East (Newcastle),Slight
+SYN100049,2023-03-04,20:28,Saturday,Urban,Single carriageway,A,30,Fine no high winds,Wet or damp,Darkness - lights lit,T or staggered junction,2,53.818639,-1.573939,West Yorkshire (Leeds),Serious
+SYN100050,2022-06-13,07:34,Monday,Urban,Dual carriageway,B,30,Raining + high winds,Wet or damp,Daylight,Not at junction,1,53.435604,-2.220777,Greater Manchester,Serious
+SYN100051,2021-01-08,11:18,Friday,Urban,Single carriageway,A,30,Fine no high winds,Wet or damp,Daylight,Not at junction,1,55.800934,-4.12506,Scotland (Central Belt),Slight
+SYN100052,2022-10-23,17:20,Sunday,Rural,Single carriageway,A,60,Fine + high winds,Dry,Daylight,T or staggered junction,1,53.813669,-1.636908,West Yorkshire (Leeds),Fatal
+SYN100053,2022-04-30,07:02,Saturday,Rural,Single carriageway,B,60,Fine no high winds,Wet or damp,Daylight,More than 4 arms,2,55.82105,-3.387339,Scotland (Central Belt),Slight
+SYN100054,2022-02-16,09:34,Wednesday,Urban,Single carriageway,A,30,Fine no high winds,Dry,Daylight,T or staggered junction,1,51.536024,0.098425,Greater London,Slight
+SYN100055,2022-06-28,17:44,Tuesday,Rural,Dual carriageway,C,60,Raining no high winds,Wet or damp,Daylight,Not at junction,1,53.418002,-2.346174,Greater Manchester,Slight
+SYN100056,2023-03-19,12:37,Sunday,Rural,Single carriageway,A,60,Fine + high winds,Dry,Daylight,Not at junction,3,52.522238,-1.893493,West Midlands (Birmingham),Serious
+SYN100057,2022-10-09,07:05,Sunday,Rural,Roundabout,B,60,Raining + high winds,Wet or damp,Daylight,Roundabout,2,53.788477,-1.542704,West Yorkshire (Leeds),Slight
+SYN100058,2021-08-01,16:57,Sunday,Urban,Single carriageway,Unclassified,30,Raining no high winds,Wet or damp,Daylight,Crossroads,2,53.47962,-2.180593,Greater Manchester,Serious
+SYN100059,2021-06-18,14:14,Friday,Rural,Single carriageway,B,60,Fine no high winds,Dry,Daylight,T or staggered junction,1,51.426238,-2.587818,South West (Bristol),Fatal
+SYN100060,2023-06-01,06:24,Thursday,Rural,Single carriageway,Unclassified,50,Fine no high winds,Dry,Darkness - lights lit,Not at junction,1,53.434463,-2.245766,Greater Manchester,Slight
+SYN100061,2022-01-10,11:36,Monday,Rural,Single carriageway,A,60,Fine no high winds,Wet or damp,Daylight,T or staggered junction,1,51.450237,-2.504045,South West (Bristol),Fatal
+SYN100062,2023-01-05,18:35,Thursday,Urban,Single carriageway,Unclassified,30,Fine no high winds,Dry,Daylight,T or staggered junction,2,51.609405,0.147179,Greater London,Slight
+SYN100063,2022-03-17,12:43,Thursday,Rural,Single carriageway,Unclassified,60,Fine no high winds,Dry,Daylight,Not at junction,3,52.529726,-1.969009,West Midlands (Birmingham),Fatal
+SYN100064,2023-08-06,16:04,Sunday,Urban,Single carriageway,B,40,Fine no high winds,Dry,Daylight,T or staggered junction,2,55.93783,-3.788267,Scotland (Central Belt),Slight
+SYN100065,2023-11-16,17:49,Thursday,Rural,Single carriageway,B,60,Fine no high winds,Dry,Daylight,Not at junction,2,52.884573,-1.145627,East Midlands,Serious
+SYN100066,2023-04-25,19:59,Tuesday,Urban,Single carriageway,Unclassified,40,Fine no high winds,Dry,Darkness - lights lit,T or staggered junction,1,54.9562,-1.643697,North East (Newcastle),Fatal
+SYN100067,2022-07-27,07:46,Wednesday,Urban,Single carriageway,B,30,Fine no high winds,Dry,Daylight,Not at junction,1,51.422874,-2.591158,South West (Bristol),Slight
+SYN100068,2022-10-31,18:44,Monday,Urban,Single carriageway,A,40,Fine no high winds,Dry,Daylight,T or staggered junction,4,51.442539,-2.518832,South West (Bristol),Slight
+SYN100069,2021-12-12,07:44,Sunday,Urban,Dual carriageway,Unclassified,20,Raining no high winds,Wet or damp,Daylight,T or staggered junction,2,51.405773,-0.222484,Greater London,Slight
+SYN100070,2022-02-01,00:01,Tuesday,Urban,Single carriageway,C,20,Fine no high winds,Dry,Darkness - lights lit,T or staggered junction,4,55.906908,-3.675118,Scotland (Central Belt),Slight
+SYN100071,2023-02-03,15:50,Friday,Rural,Single carriageway,A,60,Raining no high winds,Wet or damp,Daylight,Not at junction,2,55.812285,-4.00731,Scotland (Central Belt),Slight
+SYN100072,2022-10-16,14:24,Sunday,Urban,Single carriageway,B,30,Fine no high winds,Dry,Daylight,More than 4 arms,1,53.806967,-1.549556,West Yorkshire (Leeds),Slight
+SYN100073,2022-11-14,09:18,Monday,Rural,Single carriageway,A,60,Fine no high winds,Dry,Daylight,Not at junction,2,52.544072,-1.848502,West Midlands (Birmingham),Slight
+SYN100074,2023-06-15,16:54,Thursday,Urban,Slip road,A,30,Fine no high winds,Dry,Daylight,Not at junction,2,55.88274,-4.103188,Scotland (Central Belt),Slight
+SYN100075,2022-02-08,16:01,Tuesday,Urban,Single carriageway,A,30,Fine no high winds,Dry,Daylight,T or staggered junction,3,52.988196,-1.161553,East Midlands,Slight
+SYN100076,2023-07-15,22:37,Saturday,Rural,Roundabout,Unclassified,40,Fine no high winds,Dry,Darkness - lights lit,Roundabout,2,52.467655,-1.918941,West Midlands (Birmingham),Slight
+SYN100077,2021-03-15,17:51,Monday,Rural,Single carriageway,A,60,Fine no high winds,Dry,Daylight,T or staggered junction,2,51.514315,-2.59687,South West (Bristol),Fatal
+SYN100078,2022-07-13,18:49,Wednesday,Rural,Dual carriageway,Motorway,70,Raining no high winds,Wet or damp,Daylight,Not at junction,1,55.902097,-3.976265,Scotland (Central Belt),Serious
+SYN100079,2022-07-20,19:03,Wednesday,Rural,Dual carriageway,B,60,Raining no high winds,Flood 3cm+,Darkness - no lighting,T or staggered junction,3,52.896334,-1.193104,East Midlands,Serious
+SYN100080,2021-12-26,13:41,Sunday,Urban,Single carriageway,A,20,Fine no high winds,Wet or damp,Daylight,Not at junction,1,54.982673,-1.576787,North East (Newcastle),Slight
+SYN100081,2021-08-31,20:54,Tuesday,Urban,Single carriageway,Unclassified,30,Snowing,Snow,Darkness - lights lit,Not at junction,2,51.596278,-0.059046,Greater London,Slight
+SYN100082,2021-07-10,16:49,Saturday,Urban,One way street,A,30,Raining no high winds,Wet or damp,Daylight,Not at junction,3,54.953875,-1.568847,North East (Newcastle),Slight
+SYN100083,2022-12-28,07:44,Wednesday,Urban,Single carriageway,C,20,Raining no high winds,Wet or damp,Daylight,T or staggered junction,3,55.827755,-3.804851,Scotland (Central Belt),Slight
+SYN100084,2021-10-07,15:04,Thursday,Urban,Roundabout,C,30,Fine no high winds,Wet or damp,Daylight,Roundabout,1,52.548045,-2.047014,West Midlands (Birmingham),Serious
+SYN100085,2022-01-17,12:39,Monday,Urban,Single carriageway,C,20,Fine no high winds,Dry,Daylight,Crossroads,2,53.758298,-1.603623,West Yorkshire (Leeds),Slight
+SYN100086,2022-04-15,09:05,Friday,Urban,Dual carriageway,A,30,Fine no high winds,Dry,Daylight,Not at junction,2,55.877856,-3.447405,Scotland (Central Belt),Serious
+SYN100087,2021-10-29,14:55,Friday,Urban,Single carriageway,A,30,Fine no high winds,Dry,Daylight,T or staggered junction,2,52.475443,-2.03726,West Midlands (Birmingham),Slight
+SYN100088,2022-01-25,13:45,Tuesday,Rural,Single carriageway,B,60,Fine no high winds,Dry,Daylight,Not at junction,2,53.486984,-2.174554,Greater Manchester,Slight
+SYN100089,2022-07-05,15:22,Tuesday,Urban,One way street,A,40,Fine no high winds,Dry,Daylight,Crossroads,3,53.438075,-2.211053,Greater Manchester,Serious
+SYN100090,2021-07-18,23:53,Sunday,Urban,Single carriageway,C,20,Raining no high winds,Wet or damp,Darkness - lights lit,Not at junction,2,53.403045,-2.295983,Greater Manchester,Slight
+SYN100091,2021-11-12,17:55,Friday,Urban,Dual carriageway,A,30,Raining no high winds,Wet or damp,Daylight,Not at junction,3,55.046249,-1.586814,North East (Newcastle),Slight
+SYN100092,2023-12-23,16:11,Saturday,Urban,Roundabout,A,20,Fine no high winds,Wet or damp,Daylight,Roundabout,2,53.824635,-1.499539,West Yorkshire (Leeds),Slight
+SYN100093,2023-10-03,15:19,Tuesday,Rural,Dual carriageway,A,40,Raining no high winds,Wet or damp,Daylight,Not at junction,2,51.513321,-2.574811,South West (Bristol),Serious
+SYN100094,2021-08-16,12:17,Monday,Rural,Single carriageway,C,60,Raining no high winds,Wet or damp,Daylight,Not at junction,1,53.434109,-2.229908,Greater Manchester,Serious
+SYN100095,2021-02-28,09:16,Sunday,Rural,Single carriageway,A,60,Fine no high winds,Dry,Daylight,More than 4 arms,2,54.995356,-1.567042,North East (Newcastle),Serious
+SYN100096,2021-05-27,06:37,Thursday,Urban,Single carriageway,A,30,Fine no high winds,Dry,Darkness - lights lit,T or staggered junction,2,52.404399,-1.915888,West Midlands (Birmingham),Slight
+SYN100097,2022-09-24,18:48,Saturday,Urban,Dual carriageway,Motorway,70,Fine no high winds,Dry,Daylight,More than 4 arms,1,52.999395,-1.173134,East Midlands,Slight
+SYN100098,2022-06-06,14:37,Monday,Rural,Single carriageway,B,60,Fine no high winds,Wet or damp,Daylight,T or staggered junction,2,51.488907,-2.583067,South West (Bristol),Serious
+SYN100099,2021-09-22,11:45,Wednesday,Rural,Single carriageway,A,70,Fine no high winds,Dry,Daylight,T or staggered junction,1,52.520535,-1.912411,West Midlands (Birmingham),Serious
+SYN100100,2022-05-22,19:40,Sunday,Rural,Single carriageway,B,60,Fine no high winds,Dry,Darkness - no lighting,Not at junction,2,53.535868,-2.220007,Greater Manchester,Slight
+SYN100101,2022-03-02,17:03,Wednesday,Rural,Single carriageway,A,70,Fine no high winds,Dry,Daylight,Not at junction,1,53.412415,-2.16376,Greater Manchester,Slight
+SYN100102,2022-01-03,12:10,Monday,Urban,Single carriageway,Unclassified,30,Fine no high winds,Dry,Daylight,More than 4 arms,3,51.535105,-0.336336,Greater London,Serious
+SYN100103,2023-04-10,12:01,Monday,Urban,Roundabout,B,30,Fine no high winds,Dry,Daylight,Roundabout,1,51.42988,-0.068405,Greater London,Slight
+SYN100104,2023-02-18,15:29,Saturday,Rural,Dual carriageway,A,60,Fine no high winds,Dry,Daylight,T or staggered junction,1,52.48812,-1.81486,West Midlands (Birmingham),Serious
+SYN100105,2023-01-12,00:48,Thursday,Rural,Single carriageway,Unclassified,60,Fine no high winds,Dry,Darkness - no lighting,More than 4 arms,2,53.426886,-2.192786,Greater Manchester,Serious
+SYN100106,2023-05-17,12:21,Wednesday,Urban,Single carriageway,A,30,Fine no high winds,Dry,Daylight,Not at junction,2,55.879827,-4.01355,Scotland (Central Belt),Slight
+SYN100107,2021-01-30,12:06,Saturday,Rural,Single carriageway,A,70,Fine no high winds,Dry,Daylight,Not at junction,2,54.970428,-1.642369,North East (Newcastle),Slight
+SYN100108,2021-08-23,16:38,Monday,Urban,Single carriageway,Unclassified,30,Fine no high winds,Dry,Daylight,Not at junction,1,53.485727,-2.339909,Greater Manchester,Slight
+SYN100109,2021-04-06,15:49,Tuesday,Urban,Single carriageway,Unclassified,30,Raining no high winds,Wet or damp,Daylight,Not at junction,1,53.862832,-1.52363,West Yorkshire (Leeds),Slight
+SYN100110,2021-04-13,17:54,Tuesday,Urban,Single carriageway,C,30,Raining no high winds,Wet or damp,Daylight,Not at junction,2,52.457187,-1.830152,West Midlands (Birmingham),Slight
+SYN100111,2021-10-14,13:11,Thursday,Rural,Dual carriageway,Motorway,70,Fine no high winds,Dry,Daylight,T or staggered junction,2,52.902709,-1.204118,East Midlands,Slight
+SYN100112,2022-10-01,18:36,Saturday,Rural,Dual carriageway,A,50,Fog or mist,Wet or damp,Daylight,T or staggered junction,2,52.472484,-1.962407,West Midlands (Birmingham),Fatal
+SYN100113,2021-05-13,17:55,Thursday,Urban,One way street,B,20,Fine no high winds,Dry,Daylight,T or staggered junction,1,55.003938,-1.56042,North East (Newcastle),Slight
+SYN100114,2023-02-10,08:44,Friday,Urban,Single carriageway,A,30,Fine no high winds,Dry,Daylight,More than 4 arms,2,51.428415,-2.548897,South West (Bristol),Serious
+SYN100115,2021-01-23,08:00,Saturday,Urban,Single carriageway,A,30,Fine no high winds,Dry,Daylight,T or staggered junction,3,52.404169,-1.817469,West Midlands (Birmingham),Slight
+SYN100116,2022-05-29,16:35,Sunday,Rural,Single carriageway,A,40,Fine no high winds,Dry,Daylight,T or staggered junction,2,53.839741,-1.525618,West Yorkshire (Leeds),Serious
+SYN100117,2022-03-24,07:48,Thursday,Urban,Roundabout,C,30,Fine no high winds,Dry,Daylight,Roundabout,2,52.471015,-1.888059,West Midlands (Birmingham),Slight
+SYN100118,2021-06-04,14:36,Friday,Rural,Single carriageway,A,60,Fine no high winds,Dry,Daylight,Not at junction,4,55.805121,-3.463859,Scotland (Central Belt),Fatal
+SYN100119,2021-07-03,05:06,Saturday,Rural,Dual carriageway,Motorway,70,Fine + high winds,Dry,Darkness - lights lit,Not at junction,1,55.802429,-3.894782,Scotland (Central Belt),Serious
+SYN100120,2023-03-12,08:03,Sunday,Rural,Dual carriageway,Unclassified,60,Fine no high winds,Dry,Daylight,T or staggered junction,1,51.472546,-2.550984,South West (Bristol),Serious
+SYN100121,2021-02-21,12:49,Sunday,Rural,Single carriageway,B,40,Fine no high winds,Dry,Daylight,Not at junction,2,52.524924,-1.845049,West Midlands (Birmingham),Fatal
+SYN100122,2023-09-19,15:24,Tuesday,Rural,Dual carriageway,C,50,Fine no high winds,Dry,Daylight,Not at junction,1,51.376833,0.084157,Greater London,Slight
+SYN100123,2021-04-21,13:46,Wednesday,Rural,Single carriageway,A,40,Fog or mist,Dry,Daylight,T or staggered junction,2,55.814625,-4.124479,Scotland (Central Belt),Serious
+SYN100124,2022-03-10,12:54,Thursday,Urban,Dual carriageway,Unclassified,20,Raining no high winds,Wet or damp,Daylight,T or staggered junction,2,53.770444,-1.450985,West Yorkshire (Leeds),Slight
+SYN100125,2021-06-26,22:12,Saturday,Rural,Roundabout,C,50,Fine no high winds,Dry,Darkness - lights lit,Roundabout,2,53.767532,-1.631378,West Yorkshire (Leeds),Slight
+SYN100126,2023-11-09,20:25,Thursday,Urban,Dual carriageway,Motorway,70,Fine no high winds,Wet or damp,Darkness - lights unlit,T or staggered junction,2,51.586149,-0.389371,Greater London,Slight
+SYN100127,2021-08-09,21:08,Monday,Urban,Roundabout,A,30,Raining + high winds,Wet or damp,Darkness - lights lit,Roundabout,2,55.031789,-1.588032,North East (Newcastle),Fatal
+SYN100128,2023-01-27,17:07,Friday,Rural,Single carriageway,B,40,Fine no high winds,Dry,Daylight,Crossroads,2,53.85131,-1.514802,West Yorkshire (Leeds),Slight
+SYN100129,2021-10-21,08:47,Thursday,Urban,Single carriageway,Unclassified,20,Snowing,Snow,Daylight,T or staggered junction,2,52.439737,-1.805093,West Midlands (Birmingham),Serious
+SYN100130,2022-06-20,08:18,Monday,Rural,Single carriageway,A,50,Fine no high winds,Dry,Daylight,Not at junction,2,53.427486,-2.18644,Greater Manchester,Slight
+SYN100131,2022-04-01,18:42,Friday,Urban,Roundabout,Unclassified,30,Fine + high winds,Dry,Daylight,Roundabout,2,54.954225,-1.602792,North East (Newcastle),Serious
+SYN100132,2022-08-18,07:20,Thursday,Urban,Single carriageway,A,30,Raining + high winds,Flood 3cm+,Daylight,Not at junction,2,52.445263,-1.811758,West Midlands (Birmingham),Slight
+SYN100133,2021-01-15,15:13,Friday,Urban,Single carriageway,C,30,Fine no high winds,Dry,Daylight,T or staggered junction,2,53.458308,-2.307781,Greater Manchester,Slight
+SYN100134,2023-08-28,16:32,Monday,Urban,Single carriageway,Unclassified,30,Fine no high winds,Dry,Daylight,Not at junction,2,51.626359,-0.148603,Greater London,Slight
+SYN100135,2021-02-14,12:58,Sunday,Urban,Single carriageway,A,30,Fine no high winds,Dry,Daylight,Not at junction,2,53.751845,-1.488572,West Yorkshire (Leeds),Serious
+SYN100136,2023-10-25,01:51,Wednesday,Urban,Dual carriageway,Motorway,70,Raining no high winds,Wet or damp,Darkness - lights lit,Not at junction,1,55.846182,-4.139055,Scotland (Central Belt),Slight
+SYN100137,2022-05-07,12:15,Saturday,Urban,Single carriageway,B,20,Fine no high winds,Dry,Daylight,T or staggered junction,2,55.829437,-3.339716,Scotland (Central Belt),Slight
+SYN100138,2022-09-17,15:54,Saturday,Urban,Single carriageway,A,20,Fine no high winds,Dry,Daylight,Not at junction,2,52.927633,-1.140948,East Midlands,Slight
+SYN100139,2021-04-28,17:18,Wednesday,Urban,Single carriageway,Unclassified,30,Fine no high winds,Dry,Daylight,Not at junction,1,52.504897,-2.025972,West Midlands (Birmingham),Serious
+SYN100140,2023-01-19,21:20,Thursday,Urban,Single carriageway,Unclassified,30,Fine no high winds,Dry,Darkness - lights lit,T or staggered junction,1,53.783177,-1.568213,West Yorkshire (Leeds),Slight
+SYN100141,2023-06-23,09:56,Friday,Urban,Single carriageway,B,30,Fine no high winds,Dry,Daylight,T or staggered junction,2,53.834759,-1.560844,West Yorkshire (Leeds),Slight
+SYN100142,2023-11-24,15:04,Friday,Urban,Single carriageway,Unclassified,40,Fine no high winds,Dry,Daylight,T or staggered junction,2,52.882869,-1.219513,East Midlands,Slight
+SYN100143,2021-01-01,08:20,Friday,Urban,Roundabout,A,30,Fine no high winds,Dry,Daylight,Roundabout,2,52.540671,-1.976019,West Midlands (Birmingham),Slight
+SYN100144,2021-07-25,15:37,Sunday,Urban,Roundabout,B,30,Fine no high winds,Dry,Daylight,Mini-roundabout,2,52.470006,-1.841772,West Midlands (Birmingham),Slight
+SYN100145,2023-11-02,18:17,Thursday,Rural,Single carriageway,Unclassified,50,Fine no high winds,Dry,Daylight,T or staggered junction,1,52.99786,-1.20056,East Midlands,Slight
+SYN100146,2021-11-20,09:09,Saturday,Urban,Single carriageway,B,20,Fine no high winds,Dry,Daylight,Crossroads,1,51.494387,-2.587791,South West (Bristol),Slight
+SYN100147,2023-04-03,16:00,Monday,Rural,Single carriageway,A,60,Fine no high winds,Wet or damp,Daylight,Crossroads,2,52.4257,-1.987691,West Midlands (Birmingham),Slight
+SYN100148,2023-06-30,14:36,Friday,Urban,Single carriageway,C,30,Fine no high winds,Dry,Daylight,More than 4 arms,1,53.412033,-2.228839,Greater Manchester,Slight
+SYN100149,2022-11-29,11:35,Tuesday,Urban,One way street,A,30,Fine no high winds,Dry,Daylight,Crossroads,2,51.439174,-2.563374,South West (Bristol),Slight
+SYN100150,2023-10-18,02:09,Wednesday,Urban,Dual carriageway,B,40,Fine no high winds,Dry,Darkness - lights lit,Crossroads,1,55.913276,-3.391029,Scotland (Central Belt),Slight
