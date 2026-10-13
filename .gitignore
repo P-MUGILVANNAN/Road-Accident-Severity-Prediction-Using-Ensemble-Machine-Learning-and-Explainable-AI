@@ -25,6 +25,9 @@ npm-debug.log*
 *.sqlite3
 *.db
 accident_severity.db
+.env
+.env.local
+.env.*.local
 
 # IDE & OS
 .vscode/
